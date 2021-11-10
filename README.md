@@ -30,12 +30,11 @@
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
+<p align="left">
+<a href="https://www.linkedin.com/in/janith-lahiru-kariyawasam-6124301b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janithlahirukariyawasam" height="30" width="40" /></a> 
+</p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//) 
-[![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
-[![Facebook Badge](https://img.shields.io/badge/--3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/) 
-[![Instagram Badge](https://img.shields.io/badge/-@-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) 
 
 
 ### 📈 Github Stats:
@@ -57,8 +56,6 @@
 </div>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/janith-lahiru-kariyawasam-6124301b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janithlahirukariyawasam" height="30" width="40" /></a> 
-</p>
+>
+
 
