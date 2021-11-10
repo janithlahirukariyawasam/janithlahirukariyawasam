@@ -26,7 +26,7 @@
 - 🏫 I’m currently learning **web & mobile development** <br>
 - 🙌 I’m looking to collaborate on **** <br>
 - 🤔 I’m looking for help with ****<br>
-- 🥅 2021 Goals: **** <br>
+- 🥅 My Website: https://janithlahirukariyawasam.github.io/My-Personal-Website/ <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
