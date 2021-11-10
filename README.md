@@ -1,6 +1,8 @@
 
 ![header](https://user-images.githubusercontent.com/88109775/141090079-cd100807-5426-4ca8-bcbf-b1bd3a6a15ec.jpg)
 
+<p>My name is Janith Lahiru. I am from Sri Lanka. I'm an undergraduate student at the University of Kelaniya pursuing my Bachelor's degree in Information Technology. I'm deeply passionate about Software development, DevOps and Artificial Intelligence.</p>
+
 
 
 
