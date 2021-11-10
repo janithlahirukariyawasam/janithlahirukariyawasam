@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=janithlahirukariyawasam&color=blue)<br>
 
-### Undergraduate Student<br>
+### Software Developer<br>
 
 - 👨‍🏭 I’m currently pursuing **B.Sc (Hons) in Information Technology at University of Kelaniya** <br>
 - 🏫 I’m currently learning **web & mobile development** <br>
