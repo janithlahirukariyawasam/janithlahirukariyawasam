@@ -6,13 +6,6 @@
 
 
 
-<h3 align="center"></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janithlahirukariyawasam&label=Profile%20views&color=0e75b6&style=flat" alt="janithlahirukariyawasam" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
@@ -22,7 +15,7 @@
 
 <div style="background-color:#121212">
 <div style="color:#fff">
-# Hi ,I Am Janith Lahiru! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=janithlahirukariyawasam&color=blue)<br>
