@@ -29,11 +29,13 @@
 - 🤔 I’m looking for help with ****<br>
 - 🥅 My Website: https://janithlahirukariyawasam.github.io/My-Personal-Website/ <br>
 
-<br>
+
+  
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/janith-lahiru-kariyawasam-6124301b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janithlahirukariyawasam" height="30" width="40" /></a> 
 </p>
+  
   
   
 ### My Skills<br>  
