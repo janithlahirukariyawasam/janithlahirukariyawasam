@@ -29,7 +29,7 @@
 - 🤔 I’m looking for help with ****<br>
 - 🥅 My Website: https://janithlahirukariyawasam.github.io/My-Personal-Website/ <br>
 
-
+<br>
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/janith-lahiru-kariyawasam-6124301b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janithlahirukariyawasam" height="30" width="40" /></a> 
@@ -49,7 +49,7 @@
 <a href="https://github.com/janithlahirukariyawasam">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a>-->
-<br><br>
+<br>
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janithlahirukariyawasam&layout=compact&theme=vision-friendly-dark" />
 </a>
