@@ -45,7 +45,7 @@
 ### 📈 Github Stats:
 
 
-<br><!--
+<!--
 <a href="https://github.com/janithlahirukariyawasam">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a>-->
@@ -53,14 +53,14 @@
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janithlahirukariyawasam&layout=compact&theme=vision-friendly-dark" />
 </a>
-<br>
+<br><!--
 <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janithlahirukariyawasam&theme=dark)](https://git.io/streak-stats)
 
 </div>
 </div>
-
+-->
 >
 
 
