@@ -50,6 +50,9 @@
 <!--
 <a href="https://github.com/janithlahirukariyawasam">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+</a>-->
+<br>
+</a>
 
 <table>
   <tr>
