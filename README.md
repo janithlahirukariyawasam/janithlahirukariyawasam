@@ -52,13 +52,25 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
 </a>-->
 <br>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janithlahirukariyawasam&layout=compact&theme=vision-friendly-dark" />
+
 </a>
 <br> 
 <br><br>
+<table>
+  <tr>
+    <td>  
+      
+    </td>
+    <td>
+      <a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janithlahirukariyawasam&layout=compact&theme=vision-friendly-dark" />
+    </td> 
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&show_icons=true&locale=en" alt="janithlahirukariyawasam" /></p>
+    
+  </tr>
+ </table> 
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&show_icons=true&locale=en" alt="janithlahirukariyawasam" /></p>
 
 </div>
 </div>
