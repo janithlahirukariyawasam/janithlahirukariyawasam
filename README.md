@@ -57,12 +57,12 @@
 </a>
 <br> 
 <br><br>
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janithlahirukariyawasam&theme=dark)](https://git.io/streak-stats)-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janithlahirukariyawasam&theme=dark)](https://git.io/streak-stats)
 
 </div>
 </div>
-[![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
