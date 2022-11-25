@@ -62,7 +62,7 @@
 
 </div>
 </div>
-![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&hide=contribs,prs)
+[![Janith's GitHub stats](https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
