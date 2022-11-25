@@ -58,7 +58,7 @@
 <br> 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janithlahirukariyawasam&theme=dark)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithlahirukariyawasam&show_icons=true&locale=en" alt="janithlahirukariyawasam" /></p>
 
 </div>
 </div>
