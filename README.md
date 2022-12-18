@@ -23,8 +23,8 @@
 
 ### Software Developer<br>
 
-- 👨‍🏭 I’m currently pursuing **B.Sc (Hons) in Information Technology Specialize in Software Engineering & DevOps @ University of Kelaniya, Sri Lanka** <br>
-- 🏫 I’m currently learning **web & mobile development** <br>
+- 👨‍🏭 I’m currently pursuing **B.Sc (Hons) in Information Technology @ University of Kelaniya, Sri Lanka** <br>
+- 🏫 I’m currently learning **Web & mobile development** <br>
 - 🙌 I’m looking to collaborate on **** <br>
 - 🤔 I’m looking for help with ****<br>
 - 🥅 My Website: https://janithlahirukariyawasam.github.io/My-Personal-Website/ <br>
