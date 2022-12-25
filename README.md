@@ -3,7 +3,8 @@
 
 
 
-![Janith lahiru](https://user-images.githubusercontent.com/88109775/142971858-25e759cf-e759-47d6-b5b1-9ff026728af8.jpg)
+![Janith](https://user-images.githubusercontent.com/88109775/209476834-89c834ab-79f1-420a-bb3f-2741788f8dd4.png)
+
 
 
 
