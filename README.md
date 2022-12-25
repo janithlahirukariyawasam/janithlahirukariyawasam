@@ -2,8 +2,8 @@
 
 
 
+![Janith (1)](https://user-images.githubusercontent.com/88109775/209477083-c20b67e5-f1f8-4d26-9391-cbe00177eabe.png)
 
-![Janith](https://user-images.githubusercontent.com/88109775/209476834-89c834ab-79f1-420a-bb3f-2741788f8dd4.png)
 
 
 
