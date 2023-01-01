@@ -26,8 +26,8 @@
 
 - 👨‍🏭 I’m currently pursuing **B.Sc (Hons) in Information Technology @ University of Kelaniya, Sri Lanka** <br>
 - 🏫 I’m currently learning **Web & mobile development** <br>
-- 🙌 I’m looking to collaborate on **** <br>
-- 🤔 I’m looking for help with ****<br>
+- 🙌 I’m looking to collaborate on **Web Development** <br>
+- 🤔 I’m looking for help with **Machine Learning**<br>
 - 🥅 My Website: https://janithlahirukariyawasam.github.io/My-Personal-Website/ <br>
 
 
