@@ -17,6 +17,7 @@
 
 <div style="background-color:#121212">
 <div style="color:#fff">
+  
 ### Software Developer<br><br>
 - 👨‍🏭 I’m currently pursuing **B.Sc (Hons) in Information Technology @ University of Kelaniya, Sri Lanka** <br>
 - 🏫 I’m currently learning **Web & mobile development** <br>
