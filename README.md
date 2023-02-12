@@ -2,7 +2,6 @@
 
 
 
-![There are 10 types of people in the world those who understand binary, and those who don't](https://user-images.githubusercontent.com/88109775/212528909-401b33d7-513d-465a-98a2-8ce863f2c528.png)
 
 
 
