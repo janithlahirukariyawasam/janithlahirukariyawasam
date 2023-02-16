@@ -64,9 +64,19 @@
 
     
   </tr>
- </table> 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithlahirukariyawasam&" alt="janithlahirukariyawasam" /></p>
   
+   <tr>
+    <td>  
+         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithlahirukariyawasam&" alt="janithlahirukariyawasam" /></p>
+    </td>
+    <td>
+     <a href="https://medium.com/@janithlahirukariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@janithlahirukariyawasam" height="30" width="40" /></a>
+    </td> 
+
+    
+  </tr>
+ </table> 
+
 
 
 </div>
