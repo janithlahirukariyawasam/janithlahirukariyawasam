@@ -65,7 +65,7 @@
     
   </tr>
   
-   <tr>
+   <tr style="background-color:black">
     <td>  
          <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithlahirukariyawasam&" alt="janithlahirukariyawasam" /></p>
     </td>
