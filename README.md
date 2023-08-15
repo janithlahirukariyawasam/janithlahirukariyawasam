@@ -1,20 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div style="background-color:#121212">
 <div style="color:#fff">
   
@@ -24,15 +7,12 @@
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🤔 I’m looking for help with **Machine Learning**<br>
 - 🥅 My Website: https://janithlahirukariyawasam.github.io/My-Personal-Website/ <br>
-
-
   
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/janith-lahiru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janithlahirukariyawasam" height="30" width="40" /></a> 
+  <a href="https://kaggle.com/janithkariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janithkariyawasam" height="30" width="40" /></a>
 </p>
-  
-  
   
 ### My Skills<be>  
 <!--
